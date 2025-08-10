@@ -25,3 +25,8 @@ Este sistema tiene como finalidad gestionar el funcionamiento de **Roles y Permi
 
 <img src="https://github.com/elavincho/SistemaRolesPermisos/blob/master/img/Captura_de_pantalla_1.png" width="200" height="200" alt="img"/>                      <img src="https://github.com/elavincho/SistemaRolesPermisos/blob/master/img/Captura_de_pantalla_2.png" width="200" height="200" alt="img"/>                          <img src="https://github.com/elavincho/SistemaRolesPermisos/blob/master/img/Captura_de_pantalla_3.png" width="200" height="200" alt="img"/>                          <img src="https://github.com/elavincho/SistemaRolesPermisos/blob/master/img/Captura_de_pantalla_4.png" width="200" height="200" alt="img"/>                          <img src="https://github.com/elavincho/SistemaRolesPermisos/blob/master/img/Captura_de_pantalla_5.png" width="200" height="200" alt="img"/>
                           <img src="https://github.com/elavincho/SistemaRolesPermisos/blob/master/img/Captura_de_pantalla_6.png" width="200" height="200" alt="img"/>                          <img src="https://github.com/elavincho/SistemaRolesPermisos/blob/master/img/Captura_de_pantalla_7.png" width="200" height="200" alt="img"/>                          <img src="https://github.com/elavincho/SistemaRolesPermisos/blob/master/img/Captura_de_pantalla_8.png" width="200" height="200" alt="img"/>
+
+
+## Video del proyecto
+
+[![Video tutorial](https://github.com/elavincho/iLIB_Biblioteca/blob/master/img/img_video.png)](https://youtu.be/YN8t1GfLFkY)
