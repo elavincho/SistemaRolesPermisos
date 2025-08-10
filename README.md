@@ -29,4 +29,4 @@ Este sistema tiene como finalidad gestionar el funcionamiento de **Roles y Permi
 
 ## Video del proyecto
 
-[![Video tutorial](https://github.com/elavincho/iLIB_Biblioteca/blob/master/img/img_video.png)](https://youtu.be/YN8t1GfLFkY)
+[![Video tutorial](https://github.com/elavincho/SistemaRolesPermisos/blob/master/img/img_video.png)](https://youtu.be/F2rYF-8Q4-4)
