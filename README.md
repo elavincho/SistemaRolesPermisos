@@ -13,8 +13,9 @@ Este sistema tiene como finalidad gestionar el funcionamiento de **Roles y Permi
 
 - Login
 - Alta usuario
-- Editar usuario
-- Borrar usuario
+- Baja usuario
+- Modificación usuario
+- Lectura usuario
 - Recargar tabla
 
 ## Requisitos del Sistema
