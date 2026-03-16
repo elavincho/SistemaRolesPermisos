@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/prWKFsfY/calculadora.png" width="100" height="75" alt="calculadora"/>
+<img src="https://github.com/elavincho/SistemaRolesPermisos/blob/master/img/Captura_de_pantalla_1.png" width="100" height="75" alt="calculadora"/>
 
 # Aplicación de Escritorio para **Roles y Permisos**
 
