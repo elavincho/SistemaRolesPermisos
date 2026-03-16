@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/prWKFsfY/calculadora.png" width="100" height="75" alt="calculadora"/>
+
 # Aplicación de Escritorio para **Roles y Permisos**
 
 Este proyecto es un sistema para la administración de **Roles y Permisos** el cual permite la carga de datos de los usuarios y la asignación de roles.  
