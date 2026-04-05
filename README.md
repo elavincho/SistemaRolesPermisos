@@ -14,10 +14,10 @@ Este proyecto es un sistema para la administración de **Roles y Permisos** el c
 Este sistema tiene como finalidad gestionar el funcionamiento de **Roles y Permisos** teniendo las siguientes caracteristicas:
 
 - Login
-- Alta usuario
-- Baja usuario
-- Modificación usuario
-- Lectura usuario
+- **A**lta usuario
+- **B**aja usuario
+- **M**odificación usuario
+- **L**ectura usuario
 - Recargar tabla
 
 ## Requisitos del Sistema
